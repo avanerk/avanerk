@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avanerk
 - 👀 I’m interested in Software engineering, devOps
-- 🌱 I’m currently learning tRCP, Svelte, Prisma, GoLang & GraphQL
+- 🌱 I’m currently learning tRPC, Svelte, Prisma, GoLang & GraphQL
 - 📫 How to reach me: Create a pull request on one of my repo's
 
 <!---
