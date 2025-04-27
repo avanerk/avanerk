@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @avanerk
-- 👀 I’m interested in Software engineering, devOps
-- 🌱 I’m currently learning tRPC, Svelte, Prisma, GoLang & GraphQL
-- 📫 How to reach me: Create a pull request on one of my repo's
+# Hi, I'm Avanerk 👋
 
-<!---
-avanerk/avanerk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a software engineer with an interest in building scalable systems and improving development workflows through DevOps practices.  
+I also enjoy running and managing my own home server to self-host services and experiment with infrastructure.
+
+I'm always learning and refining my skills across backend, frontend, and infrastructure.
+
+If you'd like to reach out, feel free to open a pull request or an issue on any of my repositories.
+
+---
+
+### Tech I work with
+
+- JavaScript / TypeScript / Go / PHP
+- Node.js / GraphQL / Prisma / Laravel
+- Svelte / React
+- Docker / Kubernetes / CI/CD
+- PostgreSQL / Redis
+
+---
+
+Thanks for stopping by.
